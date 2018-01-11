@@ -1,14 +1,14 @@
 {
-  "name": "@oncomouse/daggy",
+  "name": "daggy",
   "description": "Library for creating tagged constructors.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/oncomouse/daggy.git"
+    "url": "https://github.com/fantasyland/daggy.git"
   },
   "keywords": [
     "constructor"
   ],
-  "author": "Andrew Pilsch (Based on Brian McKenna's work)",
+  "author": "Brian McKenna",
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
