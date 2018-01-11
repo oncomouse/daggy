@@ -1,8 +1,6 @@
 import toString from 'lodash.tostring';
 import type from 'sanctuary-type-identifiers';
 
-// const MAX_DEFAULT_FIELDS = 10
-
 // Names of prop used to store:
 // * name of variant of a sum type
 const TAG = '@@tag';
