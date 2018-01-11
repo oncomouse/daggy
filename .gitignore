@@ -5,6 +5,3 @@ coverage
 docs
 node_modules
 tags
-dist
-es
-lib
