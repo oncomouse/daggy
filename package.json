@@ -1,14 +1,14 @@
 {
-  "name": "daggy",
+  "name": "@oncomouse/daggy",
   "description": "Library for creating tagged constructors.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fantasyland/daggy.git"
+    "url": "https://github.com/oncomouse/daggy.git"
   },
   "keywords": [
     "constructor"
   ],
-  "author": "Brian McKenna",
+  "author": "Andrew Pilsch (Based on Brian McKenna's work)",
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
@@ -61,6 +61,7 @@
   "files": [
     "src/*.js"
   ],
+  "module": "es/daggy.js",
   "main": "lib/daggy.js",
   "version": "1.2.0",
   "jsnext:main": "es/maybe.js",
