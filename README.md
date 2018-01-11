@@ -1,7 +1,6 @@
 # Daggy
 
-[![Build Status](https://img.shields.io/travis/fantasyland/daggy/master.svg)](https://travis-ci.org/fantasyland/daggy)
-[![npm](https://img.shields.io/npm/v/daggy.svg)](https://www.npmjs.com/package/daggy)
+*This is a version of daggy that uses lodash.tostring for strings to save space. It is not the official version.*
 
 Library for creating tagged constructors a.k.a. "union types" or "sum types".
 

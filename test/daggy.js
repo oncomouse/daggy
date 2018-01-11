@@ -1,4 +1,4 @@
-const { toString } = require('sanctuary-type-classes')
+const toString = require('lodash.tostring')
 const { test } = require('tap')
 const { tagged, taggedSum } = require('../src/daggy')
 
