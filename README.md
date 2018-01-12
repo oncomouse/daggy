@@ -1,6 +1,6 @@
 # Daggy
 
-*This is a version of daggy that uses lodash.tostring for strings to save space. It is not the official version.*
+*This is a version of daggy that uses lodash.tostring instead of Z.toString from sanctuary-type-classes to save on overhead. It is not the official version.*
 
 Library for creating tagged constructors a.k.a. "union types" or "sum types".
 
